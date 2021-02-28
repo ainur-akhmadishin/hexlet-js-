@@ -1,7 +1,7 @@
 {
   "name": "hexlet-js-",
   "version": "1.0.0",
-    "type": "module",
+  "type": "module",
   "description": "test hexlet",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ainur-akhmadishin/hexlet-js-/issues"
   },
-  "homepage": "https://github.com/ainur-akhmadishin/hexlet-js-#readme"
+  "homepage": "https://github.com/ainur-akhmadishin/hexlet-js-#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
